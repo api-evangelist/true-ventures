@@ -1,0 +1,83 @@
+aid: true-ventures
+name: True Ventures
+description: >-
+  True Ventures is an early-stage venture capital firm founded in 2006 by Jon Callaghan and Phil Black and
+  headquartered in Palo Alto / San Francisco, California. Operating under a "first to believe" thesis, True
+  writes the initial institutional check and stays invested through every subsequent stage of a company's
+  journey, concentrating on pre-seed, seed, and Series A rounds with check sizes reported in the roughly
+  $500K-$15M range. The firm invests broadly across technology and founder-led categories including software
+  and developer infrastructure, consumer products and internet, healthcare and life sciences, hardware and
+  robotics, climate and energy, security, and AI. With more than $3.8B in committed capital, True has backed
+  1,050+ founders across 500+ companies since inception, with notable early checks into Fitbit, Peloton,
+  Ring, Automattic/WordPress, HashiCorp, Duo Security, Sweetgreen, Bluesky, and Splice. True is known for its
+  founder-first platform, the True University founder camps, and long-term conviction-led early ownership.
+image: https://www.trueventures.com/favicon.ico
+x-type: venture-capital
+x-category: Venture Capital
+created: '2026-07-17'
+modified: '2026-07-17'
+specificationVersion: '0.20'
+tags:
+  - Venture Capital
+  - Pre-Seed
+  - Seed
+  - Series A
+  - Developer Tools
+  - Infrastructure
+  - Consumer
+  - Healthcare
+  - Hardware
+  - Artificial Intelligence
+  - Security
+  - Climate
+  - San Francisco
+  - North America
+apis: []
+common:
+  - type: Website
+    url: https://www.trueventures.com/
+  - type: Portfolio
+    url: https://www.trueventures.com/portfolio
+  - type: Portfolio
+    url: portfolio/true-ventures-portfolio.yml
+  - type: Team
+    url: https://www.trueventures.com/team
+  - type: Team
+    url: team/true-ventures-team.yml
+  - type: InvestmentThesis
+    url: https://www.trueventures.com/founders
+  - type: Blog
+    url: https://www.trueventures.com/blog
+  - type: Jobs
+    url: https://jobs.trueventures.com/companies
+  - type: Pitch
+    url: mailto:pitch@trueventures.com
+  - type: Crunchbase
+    url: https://www.crunchbase.com/organization/true-ventures
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/true-ventures
+  - type: Twitter
+    url: https://x.com/trueventures
+  - type: Features
+    data:
+      - "Stage: Pre-Seed, Seed, Series A"
+      - "Typical check: ~$500K-$15M (reported)"
+      - "Sectors: developer tools, infrastructure, consumer, healthcare, hardware/robotics, security, climate/energy, AI"
+      - "Geography: Primarily United States"
+      - "Committed capital: $3.8B"
+      - "Portfolio: 500+ companies; 1,050+ founders backed"
+      - "Founded: 2006"
+      - "HQ: Palo Alto / San Francisco, California, USA"
+    sources:
+      - https://www.trueventures.com/
+      - https://elev-x.com/news-insights/article-true-ventures-review/
+      - https://www.crunchbase.com/organization/true-ventures
+    updated: '2026-07-17'
+maintainers:
+  - FN: Kin Lane
+    email: info@apievangelist.com
+    url: https://apievangelist.com
+  - FN: APIs.json
+    url: http://apisjson.org
+  - FN: True Ventures
+    url: https://www.trueventures.com/

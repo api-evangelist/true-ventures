@@ -1,0 +1,523 @@
+generated: '2026-07-17'
+method: searched
+source: https://www.trueventures.com/portfolio
+summary:
+  portfolio_total: 50
+  in_network: 13
+  api_providers: 9
+  missing: 37
+  stubs_created: 0
+companies:
+- name: ICEYE
+  url: https://www.iceye.com/
+  description: Synthetic-aperture radar satellite operator for Earth observation and monitoring.
+  sector: hardware
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  slug: iceye
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Enveda
+  url: https://www.envedabio.com/
+  description: AI-driven drug discovery from natural molecules.
+  sector: healthcare
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: enveda
+- name: Handshake
+  url: https://joinhandshake.com/
+  description: Early-career recruiting network connecting students, employers, and universities.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: handshake
+- name: Basecamp Research
+  url: https://www.basecamp-research.com/
+  description: Biodiversity-scale genomic database powering AI models for biology.
+  sector: healthcare
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: basecamp-research
+- name: Polsia
+  url: https://polsia.com/
+  description: Technology company in the True Ventures portfolio.
+  sector: software
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: polsia
+- name: The Nuclear Company
+  url: https://www.thenuclearcompany.com/
+  description: Developer building fleets of standardized nuclear reactors.
+  sector: climate
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: the-nuclear-company
+- name: Nectar Social
+  url: https://www.nectarsocial.com/
+  description: AI agents for social commerce and customer engagement.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nectar-social
+- name: Bluesky
+  url: https://bsky.social/about/
+  description: Decentralized social networking built on the open AT Protocol.
+  sector: consumer
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  slug: at-protocol
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Sandbar
+  url: https://sandbar.inc/about
+  description: Technology company in the True Ventures portfolio.
+  sector: software
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sandbar
+- name: Tenkara
+  url: https://tenkara.ai/
+  description: AI company in the True Ventures portfolio.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: tenkara
+- name: Splice
+  url: https://splice.com/
+  description: Cloud platform and marketplace of royalty-free samples for music creators.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  slug: splice
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Solo.io
+  url: https://www.solo.io/
+  description: Application networking, API gateway, and service mesh for cloud-native and AI apps.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  slug: solo
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Moderne
+  url: https://moderne.io/
+  description: Automated large-scale code refactoring and migration built on OpenRewrite.
+  sector: developer-tools
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: moderne
+- name: Audos
+  url: https://audos.com/
+  description: Platform for launching AI-native businesses at scale.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: audos
+- name: Ernesta
+  url: https://www.ernesta.com/
+  description: Direct-to-consumer custom rugs brand.
+  sector: consumer
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ernesta
+- name: Sailplane
+  url: https://www.sailplane.ai/
+  description: AI company in the True Ventures portfolio.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sailplane
+- name: Feroot
+  url: https://www.feroot.com/
+  description: Client-side application security and data-protection platform.
+  sector: security
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: feroot
+- name: Madison Reed
+  url: https://www.madison-reed.com/
+  description: Direct-to-consumer hair color brand and salon network.
+  sector: consumer
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: madison-reed
+- name: Hatch
+  url: https://www.hatch.co/
+  description: Smart sleep devices and app for adults and children.
+  sector: hardware
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hatch
+- name: Atticus
+  url: https://www.atticus.com/
+  description: Legal-help platform connecting people with disability and injury benefits.
+  sector: consumer
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: atticus
+- name: Gridware
+  url: https://www.gridware.io/
+  description: Sensor and monitoring hardware for electrical grid reliability.
+  sector: climate
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gridware
+- name: Hi Marley
+  url: https://www.himarley.com/
+  description: Conversational and intelligent communication platform for insurance.
+  sector: software
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: hi-marley
+- name: Understory
+  url: http://understoryweather.com/
+  description: Hyper-local weather sensing, data, and parametric insurance.
+  sector: climate
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: understory
+- name: Vers
+  url: https://vers.sh/
+  description: Technology company in the True Ventures portfolio.
+  sector: software
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: vers
+- name: Ditto
+  url: https://www.ditto.live/
+  description: Edge sync platform for resilient offline-first mobile and IoT apps.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  slug: ditto-live
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: PayNearMe
+  url: https://home.paynearme.com/
+  description: Payments platform for bill pay, lending, and cash-based transactions.
+  sector: fintech
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: paynearme
+- name: Kettle
+  url: https://ourkettle.com/
+  description: Reinsurance company using machine learning to model climate risk.
+  sector: climate
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: kettle
+- name: Daydream
+  url: https://daydream.ing/
+  description: AI-powered shopping and discovery platform for fashion.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: daydream
+- name: Digg
+  url: https://di.gg/ai
+  description: Community news and content platform relaunched with AI.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: digg
+- name: Aristotle
+  url: https://www.heyaristotle.com/
+  description: AI company in the True Ventures portfolio.
+  sector: ai
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: aristotle
+- name: Peloton
+  url: https://www.onepeloton.com/
+  description: Connected fitness hardware, content, and subscription platform.
+  sector: hardware
+  stage: growth
+  status: ipo
+  source: https://www.trueventures.com/portfolio
+  slug: peloton-interactive
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Duo Security
+  url: https://duo.com/
+  description: Cloud-based two-factor authentication and access security.
+  sector: security
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  slug: cisco-secure-client
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: HashiCorp
+  url: https://www.hashicorp.com/
+  description: Cloud infrastructure automation software (Terraform, Vault, Consul).
+  sector: developer-tools
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  slug: hashicorp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Veza
+  url: https://www.veza.com/
+  description: Identity and access-permissions security platform for the enterprise.
+  sector: security
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: veza
+- name: Ring
+  url: https://ring.com/
+  description: Connected home security cameras and video doorbells.
+  sector: hardware
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: ring
+- name: Fitbit
+  url: https://fitbit.com/
+  description: Wearable activity trackers and health devices.
+  sector: hardware
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  slug: fitbit
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: TripleLift
+  url: https://triplelift.com/
+  description: Programmatic native advertising and ad-tech platform.
+  sector: software
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  slug: triplelift
+  in_network: true
+  is_api_provider: false
+  matched_by: domain
+- name: Blue Bottle Coffee
+  url: https://bluebottlecoffee.com/
+  description: Specialty coffee roaster and cafe brand.
+  sector: consumer
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: blue-bottle-coffee
+- name: Goodreads
+  url: https://www.goodreads.com/
+  description: Social cataloging and recommendation network for readers.
+  sector: consumer
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: goodreads
+- name: Bandcamp
+  url: https://bandcamp.com/
+  description: Online music store and platform for independent artists.
+  sector: consumer
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  slug: bandcamp
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Bear Flag Robotics
+  url: http://bearflagrobotics.com/
+  description: Autonomous driving technology for agricultural tractors.
+  sector: hardware
+  stage: series-a
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bear-flag-robotics
+- name: Pipedream
+  url: https://pipedream.com/
+  description: Workflow automation and integration platform for developers.
+  sector: developer-tools
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  slug: pipedream
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
+- name: Sweetgreen
+  url: https://www.sweetgreen.com/
+  description: Fast-casual restaurant chain focused on healthy salads and bowls.
+  sector: consumer
+  stage: growth
+  status: ipo
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: sweetgreen
+- name: MakerBot
+  url: https://www.makerbot.com/
+  description: Desktop 3D printers and additive manufacturing.
+  sector: hardware
+  stage: growth
+  status: acquired
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: makerbot
+- name: Bible Chat
+  url: https://thebiblechat.com/
+  description: AI-powered faith and Bible study consumer app.
+  sector: consumer
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: bible-chat
+- name: Casa
+  url: https://getcasa.com/
+  description: Self-custody security platform for bitcoin and crypto assets.
+  sector: fintech
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: casa
+- name: Gather
+  url: https://www.gatherhq.com/
+  description: Virtual-space platform for remote teams and events.
+  sector: software
+  stage: series-a
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: gather
+- name: Nixtla
+  url: https://www.nixtla.io/
+  description: Time-series forecasting foundation models and developer tooling.
+  sector: developer-tools
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: nixtla
+- name: RadiantGraph
+  url: https://www.radiantgraph.com/
+  description: AI-powered customer engagement platform for healthcare.
+  sector: healthcare
+  stage: seed
+  status: active
+  source: https://www.trueventures.com/portfolio
+  in_network: false
+  is_api_provider: false
+  suggested_slug: radiantgraph
+- name: Tray.ai
+  url: https://tray.ai/
+  description: Low-code integration and AI automation platform for the enterprise.
+  sector: developer-tools
+  stage: growth
+  status: active
+  source: https://www.trueventures.com/portfolio
+  slug: tray-ai
+  in_network: true
+  is_api_provider: true
+  matched_by: domain
