@@ -3,9 +3,9 @@ method: searched
 source: https://www.trueventures.com/portfolio
 summary:
   portfolio_total: 50
-  in_network: 13
-  api_providers: 9
-  missing: 37
+  in_network: 50
+  api_providers: 13
+  missing: 0
   stubs_created: 0
 companies:
 - name: ICEYE
@@ -26,9 +26,10 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: enveda
+  slug: enveda
+  matched_by: name-slug
 - name: Handshake
   url: https://joinhandshake.com/
   description: Early-career recruiting network connecting students, employers, and universities.
@@ -36,9 +37,10 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: handshake
+  slug: handshake
+  matched_by: domain
 - name: Basecamp Research
   url: https://www.basecamp-research.com/
   description: Biodiversity-scale genomic database powering AI models for biology.
@@ -46,9 +48,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: basecamp-research
+  slug: basecamp-research
+  matched_by: domain
 - name: Polsia
   url: https://polsia.com/
   description: Technology company in the True Ventures portfolio.
@@ -56,9 +59,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: polsia
+  slug: polsia
+  matched_by: domain
 - name: The Nuclear Company
   url: https://www.thenuclearcompany.com/
   description: Developer building fleets of standardized nuclear reactors.
@@ -66,9 +70,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: the-nuclear-company
+  slug: the-nuclear-company
+  matched_by: domain
 - name: Nectar Social
   url: https://www.nectarsocial.com/
   description: AI agents for social commerce and customer engagement.
@@ -76,9 +81,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: nectar-social
+  slug: nectar-social
+  matched_by: domain
 - name: Bluesky
   url: https://bsky.social/about/
   description: Decentralized social networking built on the open AT Protocol.
@@ -97,9 +103,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sandbar
+  slug: sandbar
+  matched_by: name-slug
 - name: Tenkara
   url: https://tenkara.ai/
   description: AI company in the True Ventures portfolio.
@@ -107,9 +114,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: tenkara
+  slug: tenkara
+  matched_by: domain
 - name: Splice
   url: https://splice.com/
   description: Cloud platform and marketplace of royalty-free samples for music creators.
@@ -139,9 +147,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: moderne
+  slug: moderne
+  matched_by: domain
 - name: Audos
   url: https://audos.com/
   description: Platform for launching AI-native businesses at scale.
@@ -149,9 +158,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: audos
+  slug: audos
+  matched_by: domain
 - name: Ernesta
   url: https://www.ernesta.com/
   description: Direct-to-consumer custom rugs brand.
@@ -159,9 +169,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ernesta
+  slug: ernesta
+  matched_by: domain
 - name: Sailplane
   url: https://www.sailplane.ai/
   description: AI company in the True Ventures portfolio.
@@ -169,9 +180,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sailplane
+  slug: sailplane
+  matched_by: domain
 - name: Feroot
   url: https://www.feroot.com/
   description: Client-side application security and data-protection platform.
@@ -179,9 +191,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: feroot
+  slug: feroot
+  matched_by: domain
 - name: Madison Reed
   url: https://www.madison-reed.com/
   description: Direct-to-consumer hair color brand and salon network.
@@ -189,9 +202,10 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: madison-reed
+  slug: madison-reed
+  matched_by: domain
 - name: Hatch
   url: https://www.hatch.co/
   description: Smart sleep devices and app for adults and children.
@@ -199,9 +213,10 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: hatch
+  in_network: true
+  is_api_provider: true
+  slug: hatch
+  matched_by: name-slug
 - name: Atticus
   url: https://www.atticus.com/
   description: Legal-help platform connecting people with disability and injury benefits.
@@ -209,9 +224,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: atticus
+  slug: atticus
+  matched_by: domain
 - name: Gridware
   url: https://www.gridware.io/
   description: Sensor and monitoring hardware for electrical grid reliability.
@@ -219,9 +235,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: gridware
+  slug: gridware
+  matched_by: domain
 - name: Hi Marley
   url: https://www.himarley.com/
   description: Conversational and intelligent communication platform for insurance.
@@ -229,9 +246,10 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: hi-marley
+  slug: hi-marley
+  matched_by: domain
 - name: Understory
   url: http://understoryweather.com/
   description: Hyper-local weather sensing, data, and parametric insurance.
@@ -239,9 +257,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: understory
+  slug: understory
+  matched_by: domain
 - name: Vers
   url: https://vers.sh/
   description: Technology company in the True Ventures portfolio.
@@ -249,9 +268,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: vers
+  in_network: true
+  is_api_provider: true
+  slug: vers
+  matched_by: domain
 - name: Ditto
   url: https://www.ditto.live/
   description: Edge sync platform for resilient offline-first mobile and IoT apps.
@@ -270,9 +290,10 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: paynearme
+  slug: paynearme
+  matched_by: domain
 - name: Kettle
   url: https://ourkettle.com/
   description: Reinsurance company using machine learning to model climate risk.
@@ -280,9 +301,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: kettle
+  slug: kettle
+  matched_by: domain
 - name: Daydream
   url: https://daydream.ing/
   description: AI-powered shopping and discovery platform for fashion.
@@ -290,9 +312,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: daydream
+  slug: daydream
+  matched_by: name-slug
 - name: Digg
   url: https://di.gg/ai
   description: Community news and content platform relaunched with AI.
@@ -300,9 +323,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: digg
+  slug: digg
+  matched_by: name-slug
 - name: Aristotle
   url: https://www.heyaristotle.com/
   description: AI company in the True Ventures portfolio.
@@ -310,9 +334,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: aristotle
+  slug: aristotle
+  matched_by: domain
 - name: Peloton
   url: https://www.onepeloton.com/
   description: Connected fitness hardware, content, and subscription platform.
@@ -353,9 +378,10 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: veza
+  slug: veza
+  matched_by: domain
 - name: Ring
   url: https://ring.com/
   description: Connected home security cameras and video doorbells.
@@ -363,9 +389,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: ring
+  slug: ring
+  matched_by: domain
 - name: Fitbit
   url: https://fitbit.com/
   description: Wearable activity trackers and health devices.
@@ -395,9 +422,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: blue-bottle-coffee
+  slug: bluebottlecoffee
+  matched_by: domain
 - name: Goodreads
   url: https://www.goodreads.com/
   description: Social cataloging and recommendation network for readers.
@@ -405,9 +433,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: goodreads
+  slug: goodreads
+  matched_by: domain
 - name: Bandcamp
   url: https://bandcamp.com/
   description: Online music store and platform for independent artists.
@@ -426,9 +455,10 @@ companies:
   stage: series-a
   status: acquired
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bear-flag-robotics
+  slug: bear-flag-robotics
+  matched_by: domain
 - name: Pipedream
   url: https://pipedream.com/
   description: Workflow automation and integration platform for developers.
@@ -447,9 +477,10 @@ companies:
   stage: growth
   status: ipo
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: sweetgreen
+  slug: sweetgreen
+  matched_by: domain
 - name: MakerBot
   url: https://www.makerbot.com/
   description: Desktop 3D printers and additive manufacturing.
@@ -457,9 +488,10 @@ companies:
   stage: growth
   status: acquired
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: makerbot
+  slug: makerbot
+  matched_by: domain
 - name: Bible Chat
   url: https://thebiblechat.com/
   description: AI-powered faith and Bible study consumer app.
@@ -467,9 +499,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: bible-chat
+  slug: bible-chat
+  matched_by: domain
 - name: Casa
   url: https://getcasa.com/
   description: Self-custody security platform for bitcoin and crypto assets.
@@ -477,9 +510,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: casa
+  slug: casa
+  matched_by: domain
 - name: Gather
   url: https://www.gatherhq.com/
   description: Virtual-space platform for remote teams and events.
@@ -487,9 +521,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: gather
+  in_network: true
+  is_api_provider: true
+  slug: gather
+  matched_by: name-slug
 - name: Nixtla
   url: https://www.nixtla.io/
   description: Time-series forecasting foundation models and developer tooling.
@@ -497,9 +532,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
-  is_api_provider: false
-  suggested_slug: nixtla
+  in_network: true
+  is_api_provider: true
+  slug: nixtla
+  matched_by: domain
 - name: RadiantGraph
   url: https://www.radiantgraph.com/
   description: AI-powered customer engagement platform for healthcare.
@@ -507,9 +543,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: false
+  in_network: true
   is_api_provider: false
-  suggested_slug: radiantgraph
+  slug: radiantgraph
+  matched_by: domain
 - name: Tray.ai
   url: https://tray.ai/
   description: Low-code integration and AI automation platform for the enterprise.
