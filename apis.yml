@@ -11,6 +11,17 @@ description: >-
   1,050+ founders across 500+ companies since inception, with notable early checks into Fitbit, Peloton,
   Ring, Automattic/WordPress, HashiCorp, Duo Security, Sweetgreen, Bluesky, and Splice. True is known for its
   founder-first platform, the True University founder camps, and long-term conviction-led early ownership.
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
