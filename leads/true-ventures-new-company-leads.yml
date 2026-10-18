@@ -1,4 +1,32 @@
-generated: '2026-07-22'
+generated: '2026-10-18'
 method: derived
 source_vc: true-ventures
-leads: []
+leads:
+- name: Enveda
+  url: https://www.envedabio.com/
+  suggested_slug: enveda
+  sector: healthcare
+  source_vc: true-ventures
+  source: https://www.trueventures.com/portfolio
+  stub_created: false
+- name: Hatch
+  url: https://www.hatch.co/
+  suggested_slug: hatch-co
+  sector: hardware
+  source_vc: true-ventures
+  source: https://www.trueventures.com/portfolio
+  stub_created: false
+- name: Digg
+  url: https://di.gg/ai
+  suggested_slug: di-gg
+  sector: consumer
+  source_vc: true-ventures
+  source: https://www.trueventures.com/portfolio
+  stub_created: false
+- name: Gather
+  url: https://www.gatherhq.com/
+  suggested_slug: gatherhq-com
+  sector: software
+  source_vc: true-ventures
+  source: https://www.trueventures.com/portfolio
+  stub_created: false

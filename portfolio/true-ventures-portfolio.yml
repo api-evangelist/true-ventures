@@ -3,9 +3,9 @@ method: searched
 source: https://www.trueventures.com/portfolio
 summary:
   portfolio_total: 50
-  in_network: 50
-  api_providers: 13
-  missing: 0
+  in_network: 46
+  api_providers: 11
+  missing: 4
   stubs_created: 0
 companies:
 - name: ICEYE
@@ -26,10 +26,9 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: enveda
-  matched_by: name-slug
+  suggested_slug: enveda
 - name: Handshake
   url: https://joinhandshake.com/
   description: Early-career recruiting network connecting students, employers, and universities.
@@ -92,7 +91,7 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  slug: at-protocol
+  slug: atproto
   in_network: true
   is_api_provider: true
   matched_by: domain
@@ -125,7 +124,7 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  slug: splice
+  slug: splice-com
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -136,7 +135,7 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  slug: solo
+  slug: ambient-mesh
   in_network: true
   is_api_provider: false
   matched_by: domain
@@ -213,10 +212,10 @@ companies:
   stage: growth
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: true
-  is_api_provider: true
-  slug: hatch
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: hatch
+  suggested_slug: hatch-co
 - name: Atticus
   url: https://www.atticus.com/
   description: Legal-help platform connecting people with disability and injury benefits.
@@ -323,10 +322,10 @@ companies:
   stage: seed
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: true
+  in_network: false
   is_api_provider: false
-  slug: digg
-  matched_by: name-slug
+  x-name-collision: digg
+  suggested_slug: di-gg
 - name: Aristotle
   url: https://www.heyaristotle.com/
   description: AI company in the True Ventures portfolio.
@@ -424,7 +423,7 @@ companies:
   source: https://www.trueventures.com/portfolio
   in_network: true
   is_api_provider: false
-  slug: bluebottlecoffee
+  slug: blue-bottle-coffee
   matched_by: domain
 - name: Goodreads
   url: https://www.goodreads.com/
@@ -521,10 +520,10 @@ companies:
   stage: series-a
   status: active
   source: https://www.trueventures.com/portfolio
-  in_network: true
-  is_api_provider: true
-  slug: gather
-  matched_by: name-slug
+  in_network: false
+  is_api_provider: false
+  x-name-collision: gather
+  suggested_slug: gatherhq-com
 - name: Nixtla
   url: https://www.nixtla.io/
   description: Time-series forecasting foundation models and developer tooling.
